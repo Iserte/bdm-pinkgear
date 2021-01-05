@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bdm-pinkgear/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/bdm-pinkgear/static/js/main.3d0c424f.chunk.js",
+    "main.js.map": "/bdm-pinkgear/static/js/main.3d0c424f.chunk.js.map",
+    "runtime-main.js": "/bdm-pinkgear/static/js/runtime-main.832fb15f.js",
+    "runtime-main.js.map": "/bdm-pinkgear/static/js/runtime-main.832fb15f.js.map",
+    "static/js/2.b2cef986.chunk.js": "/bdm-pinkgear/static/js/2.b2cef986.chunk.js",
+    "static/js/2.b2cef986.chunk.js.map": "/bdm-pinkgear/static/js/2.b2cef986.chunk.js.map",
+    "static/js/3.e893bea4.chunk.js": "/bdm-pinkgear/static/js/3.e893bea4.chunk.js",
+    "static/js/3.e893bea4.chunk.js.map": "/bdm-pinkgear/static/js/3.e893bea4.chunk.js.map",
+    "index.html": "/bdm-pinkgear/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/bdm-pinkgear/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b2cef986.chunk.js.LICENSE.txt": "/bdm-pinkgear/static/js/2.b2cef986.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bdm-pinkgear/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.832fb15f.js",
+    "static/js/2.b2cef986.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3d0c424f.chunk.js"
+  ]
+}
